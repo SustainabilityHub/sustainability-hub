@@ -3,6 +3,29 @@ Bali sustainability hub
 
 ---
 
+### Database
+
+[Prototype database](https://docs.google.com/spreadsheets/d/1e6PC0GYdY0Y3yTfmwbemn_d0c5d-WxLJLWFhwnWoQXY/edit#gid=155590555) built with sheet2site and the public database can be found on [this publicly available url](https://www.sheet2site.com/api/?key=1e6PC0GYdY0Y3yTfmwbemn_d0c5d-WxLJLWFhwnWoQXY)
+
+```
+Badges (We need to define each badge's significance)
+- ♻️
+- 🚩
+
+Type
+- Accomodation
+- Cafe
+- Governmental Organization
+- NGO
+- Product
+- Service
+- Supplier
+```
+
+---
+
+### Notes
+
 Sustainable
   - What does sustainable mean?
     - Able to maintained
@@ -88,6 +111,9 @@ Bamboo sucks..
     - Raise on boulders to avoid white ants getting in
 
 ---
+
+http://beta.avanieco.com/wp-content/uploads/2017/01/78901web.jpg
+https://1nsw6u.akamaized.net/application/files/3014/8594/1723/uluwatu-view.jpg
 
 ## Onboarding
 
