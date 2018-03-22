@@ -8,9 +8,84 @@ Bali sustainability hub
 [Prototype database](https://docs.google.com/spreadsheets/d/1e6PC0GYdY0Y3yTfmwbemn_d0c5d-WxLJLWFhwnWoQXY/edit#gid=155590555) built with sheet2site and the public database can be found on [this publicly available url](https://www.sheet2site.com/api/?key=1e6PC0GYdY0Y3yTfmwbemn_d0c5d-WxLJLWFhwnWoQXY)
 
 ```
+
 Badges (We need to define each badge's significance)
 - ♻️
 - 🚩
+
+—————-
+
+NGO’s
+- ?
+
+——————————————————————-
+
+Government Organizations
+- ?
+
+——————————————————————-
+
+Products
+- Free Trade
+- Locally sourced
+- Non Toxic in use - application
+- Non Toxic in it’s production of
+- Organic
+- Energy Saving
+- Easily Repaired –replacement parts available
+- Zero Waste Product
+- Compostable
+- Recycable
+- Resource Saving
+
+——————————————————————-
+
+Suppliers
+- Predominately sells sustainable products
+- Has some sustainable Products
+- Practices sustainable operations in the business
+- Zero Waste Operation
+- Composts its Organics
+- Recycles most waste
+- Operates Energy Saving Transportation
+
+——————————————————————-
+
+Services
+- Predominately offers sustainable services
+- Uses sustainable Products
+- Partially Uses sustainable Products
+- Practices sustainable operations in the business
+- Zero Waste Operation
+- Composts its Organics
+- Recycles most waste
+
+——————————————————————-
+Cafes
+- Organic Products listed in menu
+- Non Chemical Farming Produce main part of menu
+- Built from mostly Sustainable Products
+- Existing Building with sustainable infrastructure added.
+- Green Garden Space
+- Energy Saving products in building
+- Zero Waste Recycling Program
+- Composting onsite
+- Inspirational Information on sustainability
+- Own Vegetable Gardens onsite
+- Emphasis
+
+ ——————————————————————-
+Accomodation
+- Organic Products listed in menu
+- Non Chemical Farming Produce main part of menu
+- Built from mostly Sustainable Products
+- Existing Building with sustainable infrastructure added.
+- Green Garden Space
+- Energy Saving products in building
+- Zero Waste Recycling Program
+- Composting onsite
+- Inspirational Information on sustainability
+- Own Vegetable Gardens onsite
 
 Type
 - Accomodation
